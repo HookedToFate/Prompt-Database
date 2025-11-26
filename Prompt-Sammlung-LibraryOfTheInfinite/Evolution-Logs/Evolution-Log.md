@@ -115,11 +115,11 @@ When updating the system:
 
 | Milestone | Target | Status |
 |-----------|--------|--------|
-| 10 Total Prompts | Q1 | ⏳ In Progress |
-| 25 Total Prompts | Q2 | 📅 Planned |
-| 50 Total Prompts | Q3 | 📅 Planned |
-| Full Profile | Q2 | 📅 Planned |
-| Self-Evolution | Q4 | 📅 Planned |
+| 10 Total Prompts | +30 days | ⏳ In Progress |
+| 25 Total Prompts | +90 days | 📅 Planned |
+| 50 Total Prompts | +180 days | 📅 Planned |
+| Full Profile | +90 days | 📅 Planned |
+| Self-Evolution | +365 days | 📅 Planned |
 
 ---
 
